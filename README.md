@@ -8,7 +8,7 @@
 ## About Me
 - **Student ID**: 1151458
 - **Student Name**: He-Shen Hsi
-- **Student E-mail**: [s1151458@mail.yzu.edu.tw](s1151458@mail.yzu.edu.tw)
+- **Student E-mail**: [He-Shen Hsi](s1151458@mail.yzu.edu.tw)
 
 ## Repository Purpose
 This repository stores assignments, projects, and documentation for the CI001 course.
