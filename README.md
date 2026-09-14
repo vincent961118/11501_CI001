@@ -15,3 +15,5 @@ This repository stores assignments, projects, and documentation for the CI001 co
 
 ## GitHub Pages Site
 Visit my personal website: [https://vincent961118.github.io/](https://vincent961118.github.io/)
+## folder organization notes
+Course assignments will be organized into separate folders for each assignment.
